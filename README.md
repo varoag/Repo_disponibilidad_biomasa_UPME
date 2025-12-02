@@ -1,2 +1,3 @@
 # Repo_disponibilidad_biomasa_UPME
-Cálculo_rápido_centroide_disponibilidad
+
+En este repositorio se esta aplicando un modelo para evaluación de clustering de distintas biomasas para el proyecto de la UPME
